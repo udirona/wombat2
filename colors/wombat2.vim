@@ -23,7 +23,7 @@ if version >= 700
 endif
 
 " General colors
-hi Cursor 		guifg=#000000 guibg=#ffffff gui=none
+hi Cursor 		guifg=#000000 guibg=#D5D5D5 gui=none
 hi Normal 		guifg=#f6f3e8 guibg=#242424 gui=none
 hi NonText 		guifg=#808080 guibg=#303030 gui=none
 hi LineNr 		guifg=#857b6f guibg=#000000 gui=none
